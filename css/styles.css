@@ -1,1 +1,44 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
 
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: ivory;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Press Start 2P', cursive;
+  text-shadow: 5px 0 beige;
+  font-size: 4rem;
+  color: #b33a3a;
+  margin: 100px 0;
+}
+
+p {
+  font-size: 2rem;
+  color: #d57056;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.5rem;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #d57056;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+
+}
