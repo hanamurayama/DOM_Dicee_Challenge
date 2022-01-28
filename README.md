@@ -2,4 +2,5 @@
 ## Quick Link
 https://hanamurayama.github.io/DOM_Dicee_Challenge/
 ## Description
-This is a simle dice roll game using DOM as a practice
+* Practice 4
+This is a simle dice roll game using DOM
